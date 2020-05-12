@@ -1,6 +1,6 @@
 # vue-bpmn
 
-Welcome to Your Vue.js App powered by bpmn.js integrated with Activiti
+Welcome to Your [Vue.js](https://cn.vuejs.org/) App powered by [bpmn.js](https://bpmn.io/toolkit/bpmn-js/) integrated with Activiti [bpmn-js-properties-panel-activiti](https://www.npmjs.com/package/bpmn-js-properties-panel-activiti) | [activiti](https://www.activiti.org)
 
 ## Project setup
 ```
