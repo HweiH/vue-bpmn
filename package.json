@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "activiti-bpmn-moddle": "^4.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bpmn-font": "^0.9.3",
     "bpmn-js": "^6.5.1",
     "bpmn-js-properties-panel": "https://github.com/RubyLinT/bpmn-js-properties-panel.git",
